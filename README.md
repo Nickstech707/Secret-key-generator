@@ -5,7 +5,7 @@ A web-based cryptographically secure key generator built with Flask and OpenSSL.
 ## Features
 
 - **Multiple Output Formats**
-  - Alphanumeric (A-Z, a-z, 0-9)
+  - Alphanumeric 
   - Hexadecimal
   - Base64
 
@@ -137,5 +137,5 @@ For support, please open an issue in the GitHub repository or contact [your-emai
 
 ## Author
 
-[Nicholas Muturi(https://github.com/Nickstech707)]
+[Nicholas Muturi (https://github.com/Nickstech707)]
 
